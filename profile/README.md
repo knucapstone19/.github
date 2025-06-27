@@ -6,13 +6,17 @@
 ## 👨‍💻 기술 스택
 <h3 align="center">Language</h3>
 <div align=center>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=black">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=black">
 </div>
 
 <h3 align="center">Framework</h3>
 <div align=center>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
 </div>
 
 <h3 align="center">Tool</h3>
